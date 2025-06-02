@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kshitij Sinha</h1>
-<h3 align="left">A passionate full Stack developer from India 👨‍💻 Full Stack Developer | MERN Stack Enthusiast 📚 Passionate about DBMS, Object-Oriented Programming (OOP), Computer Networks (CN), and Operating Systems (OS) 💡 Solving Data Structures & Algorithms (DSA) problems regularly to stay sharp 🌟 Building scalable, robust, and efficient applications 🚀 Always learning and growing in the tech space</h3>
+<h3 align="left">A passionate full Stack developer from India 👨‍💻 Full Stack Developer | MERN Stack Enthusiast 📚 Passionate about DBMS, Object-Oriented Programming (OOP), Computer Networks (CN), and Operating Systems (OS) 💡 Solving Data Structures & Algorithms (DSA) problems regularly to stay sharp 🌟Building scalable, robust, and efficient applications 🚀 Always learning and growing in the tech space</h3>
 
 - 💬 Ask me about **Full Stack Development**
 
